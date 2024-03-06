@@ -1,0 +1,43 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #0cae98;;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.content {
+    flex: 1;
+    color:#0cae98; 
+}
+
+.images {
+    flex: 1;
+    text-align: right;
+}
+
+.link {
+    font-weight: bold;
+    color: #ff0000;
+    text-decoration: none;
+}
+
+.images img {
+    width: 200px;
+    margin-bottom: 10px;
+}

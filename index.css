@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 1rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color:  #0cae98;;
+}
+
+h4 {
+    color:  #0cae98;;
+}
+
+ul {
+    color:  #0cae98;
+}
+label{
+    color:  #0cae98;
+}
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+a:hover {
+    padding: 0.5rem;
+    background-color: #ffffff;
+}
+
+.mr-robot-image {
+    max-width: 30%;
+    height: auto;
+    float: right; 
+}
